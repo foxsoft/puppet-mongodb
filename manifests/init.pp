@@ -1,3 +1,6 @@
+import "classes/*.pp"
+import "definitions/*.pp"
+
 class mongodb {
   case $architecture {
     x86_64: {

@@ -1,5 +1,4 @@
 import "classes/*.pp"
-import "definitions/*.pp"
 
 class mongodb {
   case $architecture {
